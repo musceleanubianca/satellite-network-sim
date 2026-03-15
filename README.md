@@ -42,5 +42,5 @@ input depending on the operation.
 C, Min-Heap, Huffman Binary Tree, GCC
 
 ## Project Structure
-├── tema2.c      # Full implementation
+├── satellite-sim.c      # Full implementation
 └── Makefile     # Build configuration
